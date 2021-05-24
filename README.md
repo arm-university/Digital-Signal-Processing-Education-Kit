@@ -40,4 +40,4 @@ To develop the ability to implement DSP systems and create commercially viable a
 1. Adaptive Filters: Adaptive FIR Filter
 
 ## License
-You are free to fork or clone this material. See [LICENSE.md] (https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
+You are free to fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
