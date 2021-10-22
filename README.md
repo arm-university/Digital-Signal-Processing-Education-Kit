@@ -3,7 +3,7 @@
 
 Welcome to our Digital Signal Processing Education Kit!
 
-#### [Click](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/archive/refs/heads/main.zip) to download the EdKit
+### [Download the EdKit here](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/archive/refs/heads/main.zip) 
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
