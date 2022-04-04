@@ -6,3 +6,8 @@ We describe next what the focus is in each lab and how it relates to the orginal
 
 ![Lab 01](LAB_01/IMG_4672_sm.png)
 This first DSP lab consists of a simplified version of the original ARM “LAB 1 Analog Input and Output” that is included in the original ARM Module_1/Lab/IntroductionLab folder. It assumes that all the installation steps that are specified in the original ARM “DSP_Getting_Started_Guide.docx” have been followed through and successfully completed. In our case, before the start of lab classes, all lab PCs have been configured according to the instructions in the original ARM “DSP_Getting_Started_Guide.docx”. 
+## LAB 02 
+**Lab Summary:** Getting started with the DSP Education kit: viewing program output.
+
+![Lab 01](LAB_02/37174ba5-8773-4a2d-acde-ef4317ed23e3_sm.png)
+This lab consists of a continuation of the previous lab. It is based on the section of the original ARM “LAB 1 Analog Input and Output” that is included in the original ARM Module_1/Lab/IntroductionLab folder and that focusses on exporting to Matlab specific memory contents of the STM32F7 Kit. Two signals are generated on the Kit: a deterministic signal (a sinusoid) and a random signal (using a pseudo-random sequence generator). 
