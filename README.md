@@ -29,3 +29,8 @@ This lab is a simplified and adapted version of the original ARM “LAB 3 -Finit
 
 ![Lab 05](LAB_05/Picture2_sm.png)
 This lab is a continuation of the previous lab and has been adapted to highlight the different types of comb filters (FIR, IIR, and general) and to emphasize that their theoretical and practical frequency responses are consistent with the Z-domain analysis of those filters. Aspects of special interest are the effects of poles (in terms of peaks in the frequency response magnitude), and the effects of zeros (in terms of valleys in the frequency response magnitude).
+## LAB 06
+**Lab Summary:** Evaluation of the DMA operation and conclusion on its advantages and differences to interrupt-based transfer of individual samples. Evaluation of the graphical representation capabilities of the STM32F746G board and LCD.
+
+![Lab 06](LAB_06/IMG_4796_sm.png)
+This DSP lab consists of Section 8 of the original ARM “LAB 1 Analog Input and Output” that is included in the original ARM Module_1/Lab/IntroductionLab folder. Its goal is i) to motivate students to understand DMA-based processing as an alternative to interrupt-based individual audio samples transfer, ii) to allow students to have a sense of the low input-output delay (i.e. low latency) of the A/D and D/A operation on the STM32F746G board, and iii) to motivate students to the graphical LCD representation capabilities of the STM32F746G board.
