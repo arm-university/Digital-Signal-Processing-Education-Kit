@@ -27,5 +27,5 @@ This lab is a simplified and adapted version of the original ARM “LAB 3 -Finit
 ## LAB 05
 **Lab Summary:** Experimental determination of the frequency response of FIR and IIR comb filters running in real-time on the STM32F746G Discovery board.
 
-![Lab 04](LAB_04/F0003TEK_sm.png)
+![Lab 05](LAB_05/F0003TEK_sm.png)
 This lab is a continuation of the previous lab and has been adapted to highlight the different types of comb filters (FIR, IIR, and general) and to emphasize that their theoretical and practical frequency responses are consistent with the Z-domain analysis of those filters. Aspects of special interest are the effects of poles (in terms of peaks in the frequency response magnitude), and the effects of zeros (in terms of valleys in the frequency response magnitude).
