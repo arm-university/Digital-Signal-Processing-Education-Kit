@@ -3,5 +3,6 @@ This is an adaptation of the original [ARM University DSP Education Kit](https:/
 We describe next what the focus is in each lab and how it relates to the orginal ARM lab materials.
 ## LAB 01 
 **Lab Summary:** Getting started with the DSP Education kit: LUT-based Real-Time Sine Wave Generation), Basic Analogue Input & Output Using the STM32F746G Disco Board, and Delaying the Signal.
+
 ![Lab 01](LAB_01/IMG_4672_sm.png)
 This first DSP lab consists of a simplified version of the original ARM “LAB 1 Analog Input and Output” that is included in the original ARM Module_1/Lab/IntroductionLab folder. It assumes that all the installation steps that are specified in the original ARM “DSP_Getting_Started_Guide.docx” have been followed through and successfully completed. In our case, before the start of lab classes, all lab PCs have been configured according to the instructions in the original ARM “DSP_Getting_Started_Guide.docx”. 
