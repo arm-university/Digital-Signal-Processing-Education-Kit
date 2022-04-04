@@ -34,3 +34,8 @@ This lab is a continuation of the previous lab and has been adapted to highlight
 
 ![Lab 06](LAB_06/IMG_4796_sm.png)
 This DSP lab consists of Section 8 of the original ARM “LAB 1 Analog Input and Output” that is included in the original ARM Module_1/Lab/IntroductionLab folder. Its goal is i) to motivate students to understand DMA-based processing as an alternative to interrupt-based individual audio samples transfer, ii) to allow students to have a sense of the low input-output delay (i.e. low latency) of the A/D and D/A operation on the STM32F746G board, and iii) to motivate students to the graphical LCD representation capabilities of the STM32F746G board.
+## LAB 07
+**Lab Summary:** Experimental determination of the frequency response two 2nd-order IIR filters running in real-time on the STM32F746G Discovery board: an All-Pole filter, and an All-Pass filter. Appreciation of the impact of the group delay of the All-Pass system when the input waveform is a sine wave, or a sawtooth wave.
+
+![Lab 07](LAB_07/DS1Z_QuickPrint1_sm.png)
+This lab is a simplified and adapted version of the original ARM “LAB 4 -Infinite Impulse Response (IIR) Filters” that is included in the original ARM Module_8/Lab/ folder. In this lab, a simple experimental method is used to estimate the frequency response magnitude of both all-pole and all-pass filters, and to compare them to the theoretical one. Finally, a simple procedure is followed to assess, in real-time, the impact of the group delay of the second-order all-pass filter, with that of a trivial zeroth-order all-pass system.
