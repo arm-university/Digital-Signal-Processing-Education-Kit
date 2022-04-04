@@ -39,3 +39,8 @@ This DSP lab consists of Section 8 of the original ARM “LAB 1 Analog Input and
 
 ![Lab 07](LAB_07/DS1Z_QuickPrint1_sm.png)
 This lab is a simplified and adapted version of the original ARM “LAB 4 -Infinite Impulse Response (IIR) Filters” that is included in the original ARM Module_8/Lab/ folder. In this lab, a simple experimental method is used to estimate the frequency response magnitude of both all-pole and all-pass filters, and to compare them to the theoretical one. Finally, a simple procedure is followed to assess, in real-time, the impact of the group delay of the second-order all-pass filter, with that of a trivial zeroth-order all-pass system.
+## LAB 08
+**Lab Summary:** Design, modification and measurement of the frequency response of FIR filters running in real-time on the STM32F746G Discovery board: an equiripple linear-phase FIR of order 80, and two modified versions of the designed FIR filter. Experimental determination of the frequency responses of all three filters and comparison to the theoretical ones.
+
+![Lab 08](LAB_08/FRplain_sm.png)
+In this lab, a baseline (and peculiar) linear-phase FIR filter of order 80 is first designed using the Parks-McCellan optimal equiripple FIR filter design package in Matlab. If the transfer function of this baseline filter is represented by H(z), two variations of this baseline filter are created that correspond to H(-z) and to H(z<sup>2</sup>). Students are motivated to intuitively understand what these modifications correspond to, and are invited to experimentally verify the frequency responses of all three filters and to confirm consistency with theory.
