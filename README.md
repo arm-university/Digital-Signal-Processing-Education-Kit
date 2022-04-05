@@ -44,3 +44,8 @@ This lab is a simplified and adapted version of the original ARM “LAB 4 -Infin
 
 ![Lab 08](LAB_08/FRplain_sm.png)
 In this lab, a baseline (and peculiar) linear-phase FIR filter of order 80 is first designed using the Parks-McCellan optimal equiripple FIR filter design package in Matlab. If the transfer function of this baseline filter is represented by H(z), two variations of this baseline filter are created that correspond to H(-z) and to H(z<sup>2</sup>). Students are motivated to intuitively understand what these modifications correspond to, and are invited to experimentally verify the frequency responses of all three filters and to confirm consistency with theory.
+## LAB 09
+**Lab Summary:** Theoretical and practical aspects of special FIR filters: linear-phase, minimum-phase and other phase responses of FIR filters. Design, implementation and real-time operation of a discrete-time differentiator, and a Hilbert Transformer.
+
+![Lab 09](LAB_09/F0005TEK_sm.png)
+This lab is an adaptation of the previous lab (lab 8). It revisits the theory of FIR filters, the underlying concepts of Z-plane zero distribution, linear-phase, minimum-phase and other alternative phase responses. The lab also proposes a lab implementation of a discrete-time differentiator, and Hilbert transformer, and motivates a discussion on the practical relevance and interpretation of the corresponding results.
