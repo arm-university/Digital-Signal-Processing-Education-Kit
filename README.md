@@ -62,10 +62,12 @@ This lab is a simplified and adapted version of the original ARM “LAB 5 Fast F
 ## Protective casing
 **Description:** The STM32F746G Discovery Kit is a very powerful and good-looking kit but it does not come with a protective casing. This means that unintentional electrical contacts with floating cables in the lab may accidently happen which may damage the board. In order to prevent this, we designed a protective casing that just allows access to the STM32F7 ports and connectors, as the pictures illustrate.
 
-![Protective casing](Protective_casing/box_stm32f7_top_sm.png)![](Protective_casing/20220405_090426_sm.png) ![](Protective_casing/box_stm32f7_bottom_sm.png) ![](Protective_casing/20220405_090443_sm.png)
+![Protective casing](Protective_casing/box_stm32f7_top_sm.png) ![](Protective_casing/20220405_090426_sm.png)
+![](Protective_casing/box_stm32f7_bottom_sm.png) ![](Protective_casing/20220405_090443_sm.png)
 
 We share here the 3D model of the protective casing that was carefully crafted by Carlos Graf, our Senior Lab Technician. The model includes two parts which are specified in two *.STL files. These files can be uploaded directly to the 3D printer "slicer". The used printer specifications (for a 0.4mm diameter extruder nozzle, 0.2mm layers and PLA printing) are as follows:
 - 2 exterior/interior walls (total thickness of 0.8mm),
 - 3 upper and lower layers (total thickness of 0.6mm),
 - 25% filling.
+
 The illustrations represent the models of the two parts and the pictures represent the actual protective casing (upper and lower parts).
