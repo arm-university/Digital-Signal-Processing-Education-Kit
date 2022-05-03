@@ -1,9 +1,9 @@
 
-# Standalone Adapted Digital-Signal-Processing-Education-Kits By Other Academicians
+# Modified Material by Academics - Digital-Signal-Processing-Education-Kit
 
-While we strongly encourage authors to fork our repository and submit a pull request so that these can be merged back to our main version of the Digital Signal Processing Education Kit residing in `main` branch, there may be situations where the adaptation necessary diverge greatly from the main version and it makes more sense to be left as a standalone GitHub repository maintained by the author. 
+Whilst we encourage authors to fork our repository and submit a pull request so that these can be reviewed and merged back to our main version of the Digital Signal Processing Education Kit residing in `main` branch, there may be situations where the adaptation necessarily diverges from the main version and it makes more sense to be left as a standalone GitHub repository maintained by the author. 
 
-Therefore, the Arm Education Digital Signal Processing Education Kit repository also contains a separate `uni-adapted` branch where we share standalone GitHub repositories of teaching material adapted by authors and academicians from various universities. These teaching material were adapted from the Arm Education Digital Signal Processing Education Kit that reside in the `main` branch of the repostiory. 
+Therefore, the Arm Education Digital Signal Processing Education Kit repository also contains a separate `uni-adapted` branch where we share standalone GitHub repositories of teaching material adapted and modified by authors and academics from various universities.  
 
 The standalone GitHub repositories of adapted material are added as subfolders in this `uni-adapted` branch using `git subtree`. We would usually pull in the latest changes from the original standalone GitHub respositories after a quality check, therefore the subfolders in this branch may not contain the latest material. Please refer to the original GitHub repository links mentioned in the summary table below for the latest version. 
 
@@ -21,7 +21,7 @@ The standalone GitHub repositories of adapted material are added as subfolders i
 
 
 ## Bugs and issues
-Please contact the respective authors of the repository by clicking on the Original GitHub respository link listed in the summary below. 
+Please contact the respective authors of the repository by clicking on the original GitHub respository link listed in the summary below. 
 
 ## Uni-adapted kits summary:
 
