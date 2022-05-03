@@ -7,14 +7,16 @@ Therefore, the Arm Education Digital Signal Processing Education Kit repository 
 
 The standalone GitHub repositories of adapted material are added as subfolders in this `uni-adapted` branch using `git subtree`. We would usually pull in the latest changes from the original standalone GitHub respositories after a quality check, therefore the subfolders in this branch may not contain the latest material. Please refer to the original GitHub repository links mentioned in the summary table below for the latest version. 
 
-
 ## How to swap branches to access adapted material
 1. Please ensure you have Git installed in your OS. 
 2. Clone the education kit repository using the following command:
     
     `git clone https://github.com/arm-university/Digital-Signal-Processing-Education-Kit.git`
+
 3. Check out the `uni-adapted` branch:
 
+    `cd Digital-Signal-Processing-Education-Kit/`
+    
     `git checkout uni-adapted`
 
 
