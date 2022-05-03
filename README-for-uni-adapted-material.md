@@ -16,6 +16,7 @@ The standalone GitHub repositories of adapted material are added as subfolders i
 3. Check out the `uni-adapted` branch:
 
     `cd Digital-Signal-Processing-Education-Kit/`
+    
     `git checkout uni-adapted`
 
 
