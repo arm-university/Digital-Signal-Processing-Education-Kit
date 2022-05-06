@@ -35,11 +35,11 @@ To develop the ability to implement DSP systems and create commercially viable a
 1. Adaptive Filters: Equalization and Noise Cancellation
 1. Adaptive Filters: Adaptive FIR Filter
 
+## Modifications & additions by academics 
+See `uni-adapted` branch [here](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/tree/uni-adapted/).
+
 ## License
 You are free to fork or clone this material. See [LICENSE.md](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/blob/main/License/LICENSE.md) for the complete license.
-
-## Modified material by academics 
-See `uni-adapted` branch [here](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/tree/uni-adapted/).
 
 ## Inclusive Language Commitment
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
