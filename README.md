@@ -14,7 +14,7 @@ Please contact the respective authors of the repository by clicking on the origi
 
 | Folder name           | Description | Original GitHub repository link |
 | -----------           | ----------- | ------------------------------- | 
-| `uni-porto-anibal`      | Lab exercise adaptation by Dr. Aníbal Ferreira to serve the signal processing undergraduate course used in University of Porto. The adaptation includes specific exercises for various signal reconstruction and covers more depth on filters. For more information, see the original GitHub repository link.                                                                   |  https://github.com/Anibal-Ferreira/U.Porto-version-of-DSP-Education-Kit | 
+| `uni-porto-anibal`      | Lab exercise adaptation by Dr. Aníbal Ferreira to serve the signal processing undergraduate course used in University of Porto. The adaptation includes specific exercises for various signal reconstruction and covers more depth on filters. For more information, see the original GitHub repository link.                                                                   |  https://github.com/Anibal-Ferreira/U.Porto-version-of-DSP-Education-Kit. ©Aníbal Ferreira and Arm Limited 2022 and licensed for use subject to the terms of the Arm Education [EULA](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/blob/main/License/LICENSE.md) | 
 
 
 
