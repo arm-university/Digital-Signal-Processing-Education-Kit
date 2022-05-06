@@ -1,6 +1,5 @@
 
-# Modified Material by Academics 
-# Digital-Signal-Processing-Education-Kit
+## Modified Material by Academics
 
 Whilst we encourage authors to fork our repository and submit a pull request so that these can be reviewed and merged back to our main version of the Digital Signal Processing Education Kit residing in `main` branch, there may be situations where the adaptation necessarily diverges from the main version and it makes more sense to be left as a standalone GitHub repository maintained by the author. 
 
