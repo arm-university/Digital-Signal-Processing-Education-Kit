@@ -325,7 +325,7 @@
         {
             "title": "Adaptive Filters Part 1, Module 11",
             "subject": ["arm", "cortex-m", "dsp", "digital-signals", "hardware-designs", "digital-signal-processing", "cortex-m7", "electrical-engineering", "stm32f746g-discovery", "keil-mdk"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": "Donald Reay",
             "publisher": "Arm Education",
@@ -344,7 +344,7 @@
         {
             "title": "Adaptive Filters Part 2, Module 12",
             "subject": ["arm", "cortex-m", "dsp", "digital-signals", "hardware-designs", "digital-signal-processing", "cortex-m7", "electrical-engineering", "stm32f746g-discovery", "keil-mdk"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": "Donald Reay",
             "publisher": "Arm Education",
@@ -363,7 +363,7 @@
         {
             "title": "Adaptive Filters Part 3, Module 13",
             "subject": ["arm", "cortex-m", "dsp", "digital-signals", "hardware-designs", "digital-signal-processing", "cortex-m7", "electrical-engineering", "stm32f746g-discovery", "keil-mdk"],
-            "type": "Lab",
+            "type": "Lecture",
             "format": "doc",
             "creator": "Donald Reay",
             "publisher": "Arm Education",
