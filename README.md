@@ -1,9 +1,12 @@
-
 # Digital-Signal-Processing-Education-Kit
 
-Welcome to our Digital Signal Processing Education Kit!
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/releases/download/v2.0.0/Digital-Signal-Processing-Education-Kit.zip)
 
-### [Download the EdKit here](https://github.com/arm-university/Digital-Signal-Processing-Education-Kit/archive/refs/heads/main.zip) 
+## About
+
+Welcome to our Digital Signal Processing Education Kit!
 
 Our flagship offering to universities worldwide is the Arm University Program Education Kit series.
 
